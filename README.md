@@ -1,25 +1,28 @@
-# 💻 Prashant Marathe
+# 📊 Prashant Marathe
 
-### Python Full Stack Developer | React Frontend | Learning Data Science & AI 🚀
+### Final-Year BCA Student | Aspiring Data Scientist & ML Engineer 🚀
 
-Hey there! I’m **Prashant**, a final-year BCA student from **SSBT College, Bambhori** (North Maharashtra University). I'm building my way up in tech through hands-on projects and daily learning.
+Hey there! I’m **Prashant**, a final-year BCA student from **SSBT College, Bambhori** (North Maharashtra University).  
+I’m passionate about turning data into insights and building intelligent systems. Currently, I’m learning **Machine Learning, NLP, Deep Learning, and MLOps** through projects and daily practice.
 
 ---
 
 ## 🧠 Current Focus
-- 🌐 Frontend Development with **React**
-- 🐍 Backend with **Flask/Django** (Coming up next!)
-- 📊 Exploring **Data Science** & **Generative AI** (esp. NLP)
-- 🔄 Building **strong habits** & self-discipline, one project at a time
+- Strengthening foundations in **Data Science & ML**
+- Hands-on practice with **Supervised & Unsupervised Learning**
+- Exploring **Deep Learning** & **NLP with Transformers**
+- Learning **MLOps & Deployment** for real-world applications
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frontend**: React, Tailwind CSS, Bootstrap
-- **Backend**: Flask, Django *(in progress)*
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Git, GitHub, VS Code, Postman
+- **Languages**: Python, SQL  
+- **Data Science**: NumPy, pandas, Matplotlib, Seaborn, scikit-learn  
+- **Deep Learning**: TensorFlow, PyTorch *(in progress)*  
+- **NLP**: NLTK, SpaCy, Hugging Face Transformers *(upcoming)*  
+- **MLOps / Deployment**: Flask, FastAPI, Docker, Streamlit *(learning)*  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+- **Tools**: Git, GitHub, Jupyter, VS Code  
 
 ---
 
@@ -28,16 +31,19 @@ Hey there! I’m **Prashant**, a final-year BCA student from **SSBT College, Bam
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-marathe&layout=compact&theme=radical)
 
----
-
-## 📝 Recent Goals
-- ✅ Build a solid frontend foundation with React
-- 🔄 Master Flask/Django for backend APIs
-- 📚 Keep progressing in Data Science & Machine Learning
-- 💪 Stay consistent with learning, building, and shipping!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-marathe&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-## 🤝 Let's Connect!
-I'm always open to collaboration, learning from others, or just chatting about tech & AI.
+## 🗺 Roadmap 2025
+- ✅ Build solid foundations in Python for Data Science  
+- 🔄 Master ML algorithms (regression, classification, clustering, ensembles)  
+- 📚 Dive deep into Deep Learning & Neural Networks  
+- 📚 Explore NLP & Generative AI (Transformers, LLMs)  
+- 🔜 Learn MLOps (model deployment, CI/CD, Docker, cloud)  
 
+---
+
+## 🤝 Let’s Connect!
+Always open to collaborations, discussions on **Data Science, ML, and AI**,  
+or just sharing knowledge. Let’s build something amazing together 🚀
