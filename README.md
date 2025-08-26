@@ -31,7 +31,7 @@ I’m passionate about turning data into insights and building intelligent syste
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-marathe&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-marathe&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prashant-marathe)](https://git.io/streak-stats)
 
 ---
 
