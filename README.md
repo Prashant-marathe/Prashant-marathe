@@ -121,12 +121,28 @@ Pixel-accurate clone of the To Desktop landing page, practicing responsive layou
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ What I Build
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prashant-marathe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-marathe&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+| 🖥️ Frontend | ⚙️ Backend | 🗄️ Database | 🚀 Deployment |
+|:-----------:|:----------:|:-----------:|:-------------:|
+| React + Tailwind UI | FastAPI / Flask REST APIs | PostgreSQL + MongoDB | Docker + Render |
+| Responsive layouts | Auth & middleware | Schema design | Live public endpoints |
+| Vanilla JS interaction | Async patterns | Query optimization | End-to-end solo DevOps |
+
 </div>
+
+---
+
+### 🏗️ How I Work
+
+```text
+📥  Requirement     →   Break it down into backend + frontend + DB layers
+🔧  Backend first   →   FastAPI routes, DB models, REST API design
+🎨  Frontend next   →   React components, Tailwind styling, API integration
+🐳  Ship it         →   Docker + Render, live public URL, production-ready
+```
 
 ---
 
